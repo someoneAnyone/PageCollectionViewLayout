@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PageCollectionViewLayout_Example', :exclusive => true do
+  pod "PageCollectionViewLayout", :path => "../"
+end
+
+target 'PageCollectionViewLayout_Tests', :exclusive => true do
+  pod "PageCollectionViewLayout", :path => "../"
+
+  pod 'Quick', '~> 0.3.1'
+  pod 'Nimble'
+end
