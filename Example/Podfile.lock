@@ -1,0 +1,14 @@
+PODS:
+  - PageCollectionViewLayout (0.1.0)
+
+DEPENDENCIES:
+  - PageCollectionViewLayout (from `../`)
+
+EXTERNAL SOURCES:
+  PageCollectionViewLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PageCollectionViewLayout: f3550029c89366c67d86699ff00a720e598c9c79
+
+COCOAPODS: 0.39.0

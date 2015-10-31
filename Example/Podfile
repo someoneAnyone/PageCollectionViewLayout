@@ -8,6 +8,6 @@ end
 target 'PageCollectionViewLayout_Tests', :exclusive => true do
   pod "PageCollectionViewLayout", :path => "../"
 
-  pod 'Quick', '~> 0.3.1'
-  pod 'Nimble'
+#  pod 'Quick', '~> 0.3.1'
+#  pod 'Nimble'
 end
